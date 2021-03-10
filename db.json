@@ -26,19 +26,5 @@
     "title": "title 4",
     "qualification": "qualification 4",
     "job_id": "73f1ca36-2023-4039-8d08-c7edbe986b15"
-  },
-  {
-    "id": "5",
-    "createdAt": 1615366434,
-    "title": "title 5",
-    "qualification": "qualification 5",
-    "job_id": "67ea3cd3-e804-40ea-9df9-761de55ffb49"
-  },
-  {
-    "id": "6",
-    "createdAt": 1615366374,
-    "title": "title 6",
-    "qualification": "qualification 6",
-    "job_id": "18ed652d-04e5-461b-93f4-338ad0a8800b"
   }
 ]
